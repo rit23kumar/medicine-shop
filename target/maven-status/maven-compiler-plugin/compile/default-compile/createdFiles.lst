@@ -1,0 +1,5 @@
+com\medicineshop\repository\MedicineRepository.class
+com\medicineshop\controller\MedicineController.class
+WebSecurityConfig.class
+com\medicineshop\MedicineShopApplication.class
+com\medicineshop\model\Medicine.class
